@@ -15,9 +15,10 @@ Paw Care adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan 
 
 ## 🛠️ Tech Stack
 
-* Frontend: React + Tailwind CSS
-* Backend: Node.js + Express
-* Database: MySQL
+* Frontend: React / Next.js
+* Styling: Tailwind CSS
+* Backend: Express.js / NestJS
+* Database: MySQL / PostgreSQL
 
 ## 🚀 Getting Started
 
